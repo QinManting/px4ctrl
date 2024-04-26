@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/qinmanting/Arial_learning/px4_sim_ws/src/uav-px4ctrl-1-sim_uav_px4ctrl/sim/sim_uav_px4ctrl/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/qinmanting/Arial_learning/px4_sim_ws/src/uav-px4ctrl-1-sim_uav_px4ctrl/sim/sim_uav_px4ctrl/src/ego-planner-swarm/src/planner/bspline_opt/include/**",
+        "/home/qinmanting/Arial_learning/px4_sim_ws/src/uav-px4ctrl-1-sim_uav_px4ctrl/sim/sim_uav_px4ctrl/src/ego-planner-swarm/src/planner/drone_detect/include/**",
+        "/home/qinmanting/Arial_learning/px4_sim_ws/src/uav-px4ctrl-1-sim_uav_px4ctrl/sim/sim_uav_px4ctrl/src/ego-planner-swarm/src/planner/plan_manage/include/**",
+        "/home/qinmanting/Arial_learning/px4_sim_ws/src/uav-px4ctrl-1-sim_uav_px4ctrl/sim/sim_uav_px4ctrl/src/ego-planner-swarm/src/uav_simulator/mockamap/include/**",
+        "/home/qinmanting/Arial_learning/px4_sim_ws/src/uav-px4ctrl-1-sim_uav_px4ctrl/sim/sim_uav_px4ctrl/src/ego-planner-swarm/src/uav_simulator/Utils/multi_map_server/include/**",
+        "/home/qinmanting/Arial_learning/px4_sim_ws/src/uav-px4ctrl-1-sim_uav_px4ctrl/sim/sim_uav_px4ctrl/src/ego-planner-swarm/src/planner/path_searching/include/**",
+        "/home/qinmanting/Arial_learning/px4_sim_ws/src/uav-px4ctrl-1-sim_uav_px4ctrl/sim/sim_uav_px4ctrl/src/ego-planner-swarm/src/planner/plan_env/include/**",
+        "/home/qinmanting/Arial_learning/px4_sim_ws/src/uav-px4ctrl-1-sim_uav_px4ctrl/sim/sim_uav_px4ctrl/src/ego-planner-swarm/src/uav_simulator/Utils/pose_utils/include/**",
+        "/home/qinmanting/Arial_learning/px4_sim_ws/src/uav-px4ctrl-1-sim_uav_px4ctrl/sim/sim_uav_px4ctrl/src/px4ctrl/include/**",
+        "/home/qinmanting/Arial_learning/px4_sim_ws/src/uav-px4ctrl-1-sim_uav_px4ctrl/sim/sim_uav_px4ctrl/src/ego-planner-swarm/src/uav_simulator/Utils/quadrotor_msgs/include/**",
+        "/home/qinmanting/Arial_learning/px4_sim_ws/src/uav-px4ctrl-1-sim_uav_px4ctrl/sim/sim_uav_px4ctrl/src/ego-planner-swarm/src/uav_simulator/so3_control/include/**",
+        "/home/qinmanting/Arial_learning/px4_sim_ws/src/uav-px4ctrl-1-sim_uav_px4ctrl/sim/sim_uav_px4ctrl/src/ego-planner-swarm/src/uav_simulator/so3_quadrotor_simulator/include/**",
+        "/home/qinmanting/Arial_learning/px4_sim_ws/src/uav-px4ctrl-1-sim_uav_px4ctrl/sim/sim_uav_px4ctrl/src/ego-planner-swarm/src/planner/traj_utils/include/**",
+        "/home/qinmanting/Arial_learning/px4_sim_ws/src/uav-px4ctrl-1-sim_uav_px4ctrl/sim/sim_uav_px4ctrl/src/ego-planner-swarm/src/uav_simulator/Utils/uav_utils/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
